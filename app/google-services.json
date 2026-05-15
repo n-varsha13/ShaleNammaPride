@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "359863224536",
+    "project_id": "aerobic-lock-490606-d7",
+    "storage_bucket": "aerobic-lock-490606-d7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359863224536:android:44cfc7d9957f14f3902fad",
+        "android_client_info": {
+          "package_name": "com.example.shale_nammapride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359863224536-6fmcbs91tvjcu23i883e49lhdij7o4ai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoUqF8QB9wmOPtlH3-DsfFiMP4J4QtBHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359863224536-6fmcbs91tvjcu23i883e49lhdij7o4ai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
