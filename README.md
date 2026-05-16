@@ -143,8 +143,6 @@ Shift + F10
 
 # 📸 App Screenshots
 
-## 📸 App Screenshots
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7995ff80-8017-4893-9758-0f057f4e1935" width="220"/>
   <img src="https://github.com/user-attachments/assets/c358fcf7-891f-4ea6-a50e-05d1ee47c245" width="220"/>
